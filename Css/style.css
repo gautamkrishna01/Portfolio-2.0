@@ -323,7 +323,7 @@ header .navbar ul li a:hover{
 }
 .progress-line.js span
 {
-    width: '50%';
+    width: 50%;
 }
 .progress-line.react span
 {
